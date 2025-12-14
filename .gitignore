@@ -1,0 +1,19 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+.vs/
+*.sln
+
+# Archivos temporales / IDE
+*.log
+*.vs
+*.VC.db
+*.VC.opendb
+
+# Builds empaquetados (por si los generas dentro del proyecto)
+Windows/
+Linux/
+Android/
+IOS/
